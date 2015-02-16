@@ -1,2 +1,0 @@
-Mon Feb 09 22:37:38 EST 2015|SELECT command denied to user 'vsm11'@'pool-74-109-245-163.pitbpa.fios.verizon.net' for table 'account'
-Mon Feb 09 22:37:38 EST 2015|SELECT * FROM bank1017.account WHERE accountID = '00ae9c2a-5d43-11e3-94ef-97beef767f1d'
